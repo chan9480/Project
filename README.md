@@ -1,4 +1,4 @@
-#project_1
+# project_1
 ## 주제
 ### 다음분기 추천 게임 장르, 배급사 선정
 
@@ -10,7 +10,7 @@
 ### 데이터전처리, EDA, 변수독립검정, 카이제곱검정, 시각화연습
 
 
-#project_2
+# project_2
 ## 주제
 ### test 데이터에 대해서 대출승인여부 예측
 
@@ -22,7 +22,7 @@
 ### 전처리, feature engineering, feature importance, shap value,  DummyClassifier model(base), OrdinalEncoder, SimpleImputer, XGBClassfier, GridSearchCV
 
 
-#project_3
+# project_3
 ## 주제
 ### steam 할인게임 추천
 
