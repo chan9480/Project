@@ -33,3 +33,13 @@
 
 > ## keword
 >> ### cloud RDB, postgeSQL(elephantSQL), Data Studio, sklearn, psycopg2, selenium crawling, BeautifulSoup, flask
+
+# project_4
+> ## 주제
+>> ### image captioning 구현
+
+> ## 데이터
+> ### kaggle competition from wikipedia
+> https://www.kaggle.com/c/wikipedia-image-caption
+
+> ## keword
